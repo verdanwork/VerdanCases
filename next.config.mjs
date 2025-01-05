@@ -21,7 +21,6 @@ const nextConfig = {
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
   },
-  basePath: '/my-v0-project',
   output: 'export',
   trailingSlash: true,
   distDir: 'out',
